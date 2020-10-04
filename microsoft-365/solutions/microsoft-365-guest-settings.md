@@ -66,7 +66,7 @@ The Microsoft 365 admin center has organization-level settings for sharing and f
 
 ### Microsoft 365 Groups
 
-**Navigation:** [Microsoft 365 admin center](https://admin.microsoft.com) > Settings > Settings > Microsoft 365 Groups
+**Navigation:** [Microsoft 365 admin center](https://admin.microsoft.com) > Settings > Org Settings > Microsoft 365 Groups
 
 ![Screenshot of Microsoft 365 Groups guest settings in  Microsoft 365 admin center](../media/office-365-groups-guest-settings.png)
 
